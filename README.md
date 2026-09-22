@@ -18,7 +18,7 @@ el número del grupo 04.
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/Marquitos246/g04_prii3_ws
 ```
 
 Entrar en el workspace:
